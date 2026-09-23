@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/50c306d4-0263-4b9f-860b-ff17cc624674" />
 # Ambient Color Palette 🎨
 
 A lightweight Python desktop application that extracts dominant color palettes from any chosen portion of your computer screen using K-Means clustering.
