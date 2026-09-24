@@ -12,7 +12,7 @@ A lightweight Python desktop application that extracts dominant color palettes f
 ## How It Works
 The engine uses **Pillow** to take an instantaneous snapshot of the selected bounding box, scales the array via **NumPy**, runs a **Scikit-Learn K-Means Clustering Algorithm** to find dominant cluster centroids, and renders the result dynamically in a custom **Tkinter** overlay frame.
 
-## 🚀 Download Standalone Executable (No Python Required)
+## 🚀 Download Standalone Executable
 If you just want to use the application without looking at the code, navigate to the **Releases** tab on the right side of this GitHub repository page and download `main.exe`.
 
 ## 🛠️ Developer Setup & Installation
